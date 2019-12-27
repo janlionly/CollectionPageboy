@@ -1,0 +1,4 @@
+framework module CollectionPageboy {
+  header "CollectionPageboy-Swift.h"
+  requires objc
+}

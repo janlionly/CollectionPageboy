@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CollectionPageboy'
-  s.version          = '1.0.3'
+  s.version          = '1.0.4'
   s.summary          = 'CollectionPageboy is a collection view controller which support to customize your xib''s cell, and support scrolling vertical or horizontal'
  
   s.homepage         = 'https://github.com/janlionly/CollectionPageboy'

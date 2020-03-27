@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CollectionPageboy'
-  s.version          = '1.0.2'
+  s.version          = '1.0.3'
   s.summary          = 'CollectionPageboy is a collection view controller which support to customize your xib''s cell, and support scrolling vertical or horizontal'
  
   s.homepage         = 'https://github.com/janlionly/CollectionPageboy'
@@ -14,7 +14,6 @@ Pod::Spec.new do |s|
   s.framework           = 'UIKit'
 
   s.license             = { :type => 'MIT', :file => 'LICENSE' }
-  s.swift_versions      = ['4.2', '5.0', '5.1']
   s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4.2' }
   
 end
